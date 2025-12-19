@@ -11,7 +11,7 @@ export default function Navbar() {
           to="/"
           className="text-2xl font-bold tracking-wide text-black hover:text-gray-300 transition"
         >
-          FLIPR
+          TASK
         </Link>
 
        
